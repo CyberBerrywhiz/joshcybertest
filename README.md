@@ -60,7 +60,7 @@
 
 Here are some projects I've worked on:
 
-- **Creating Active Directory Homelab with PowerShell:**(https://github.com/ElizabethEtsegbe/Active-Directory-Home-Lab/blob/main/README.md)
+- **Creating Active Directory Homelab with PowerShell:**(https://github.com/ElizabethEtsegbe/Active-Directory-Home-Lab)
 - Active Directory is a Microsoft technology that allows administrators to manage and organize network resources, including users, computers, and security policies. With PowerShell, you can automate many of the tasks involved in creating and managing an AD domain.This repository contains PowerShell scripts for setting up an Active Directory (AD) environment.
 
 
