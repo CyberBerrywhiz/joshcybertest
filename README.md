@@ -64,7 +64,7 @@ Here are some projects I've worked on:
 - Active Directory is a Microsoft technology that allows administrators to manage and organize network resources, including users, computers, and security policies. With PowerShell, you can automate many of the tasks involved in creating and managing an AD domain.This repository contains PowerShell scripts for setting up an Active Directory (AD) environment.
 
 
-- **Azure Sentinel SIEM Lab:**
+- **Azure Sentinel SIEM Lab:**(https://github.com/ElizabethEtsegbe/Azure-Sentinel-SIEM-Lab)
 - In this Lab, I learnt how to setup Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honey pot. I observed live attacks (RDP Brute Force) from all around the world. I used a custom PowerShell script to look up the attackers Geolocation information and plot it on the Azure Sentinel Map.
 
   
