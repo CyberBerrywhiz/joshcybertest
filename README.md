@@ -69,6 +69,7 @@ Here are some projects I've worked on:
 
   
 -  **OpenVAS Vulnerability Management:**
+  (https://github.com/ElizabethEtsegbe/OpenVAS-Vulnerability-Management-Lab)
 - This lab is designed to help set up a testing environment for OpenVAS, a powerful open-source vulnerability scanner.This entire process gave me valuable experience in vulnerability management, from creation to remediation.
 
 <h2>Certifcations</h2>
