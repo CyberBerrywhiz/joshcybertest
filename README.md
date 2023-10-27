@@ -60,18 +60,16 @@
 
 Here are some projects I've worked on:
 
-- **Creating Active Directory Homelab with PowerShell:** - [With Powershell](https://github.com/joshmadakor1/Algorithms-Practice)
+- **Creating Active Directory Homelab with PowerShell:**(https://github.com/ElizabethEtsegbe/Active-Directory-Home-Lab/blob/main/README.md)
 - Active Directory is a Microsoft technology that allows administrators to manage and organize network resources, including users, computers, and security policies. With PowerShell, you can automate many of the tasks involved in creating and managing an AD domain.This repository contains PowerShell scripts for setting up an Active Directory (AD) environment.
-- - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 
+- **Azure Sentinel SIEM Lab:**
+- In this Lab, I learnt how to setup Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honey pot. I observed live attacks (RDP Brute Force) from all around the world. I used a custom PowerShell script to look up the attackers Geolocation information and plot it on the Azure Sentinel Map.
 
-- **OpenVAS Vulnerability Management:**
-- This lab is designed to help you set up a testing environment for OpenVAS, a powerful open-source vulnerability scanner.
+  
+-  **OpenVAS Vulnerability Management:**
+- This lab is designed to help set up a testing environment for OpenVAS, a powerful open-source vulnerability scanner.This entire process gave me valuable experience in vulnerability management, from creation to remediation.
 
 <h2>Certifcations</h2>
 
