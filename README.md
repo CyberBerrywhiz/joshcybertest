@@ -66,11 +66,14 @@ Here are some projects I've worked on:
 
 - **Azure Sentinel SIEM Lab:**(https://github.com/ElizabethEtsegbe/Azure-Sentinel-SIEM-Lab)
 - In this Lab, I learnt how to setup Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honey pot. I observed live attacks (RDP Brute Force) from all around the world. I used a custom PowerShell script to look up the attackers Geolocation information and plot it on the Azure Sentinel Map.
-
   
--  **OpenVAS Vulnerability Management:**
-  (https://github.com/ElizabethEtsegbe/OpenVAS-Vulnerability-Management-Lab)
+
+-  **OpenVAS Vulnerability Management:**(https://github.com/ElizabethEtsegbe/OpenVAS-Vulnerability-Management-Lab)
 - This lab is designed to help set up a testing environment for OpenVAS, a powerful open-source vulnerability scanner.This entire process gave me valuable experience in vulnerability management, from creation to remediation.
+
+
+- **Azure Sentinel SIEM Lab:**(https://github.com/ElizabethEtsegbe/Azure-Sentinel-SIEM-Lab)
+- In this Lab, I learnt how to setup Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honey pot. I observed live attacks (RDP Brute Force) from all around the world. I used a custom PowerShell script to look up the attackers Geolocation information and plot it on the Azure Sentinel Map.
 
 <h2>Certifcations</h2>
 
